@@ -14,7 +14,7 @@
     <a href="#getting-started">Getting Started</a>
     <ul>
     <li><a href="#installation">Installation</a></li>
-    <li><a href="#starting">Running the app</a></li>
+    <li><a href="#running-the-app">Running the app</a></li>
     </ul>
 </li>
 
@@ -35,29 +35,31 @@ to the register page.
 
 Application features include:
 
-- Landing page with a map that shows random locations that users have added<br/>
-  <img src="https://raw.githubusercontent.com/CozminM/Look_at_This/master/public/Landing-page-look-at-this.png" height="auto" width="40">
+- Landing page with a map that shows random locations that users have added<br/><br/>
+  <img src="https://raw.githubusercontent.com/CozminM/Look_at_This/master/public/Landing-page-look-at-this.png" height="500" width="auto">
+<br/>
+<br/>
 <br/>
 
-- A registration and login form<br/>
-  <img src="https://raw.githubusercontent.com/CozminM/Look_at_This/master/public/Register-form.png" height="auto" width="40">
-<br/>
+- A registration and login form<br/><br/>
+  <img src="https://raw.githubusercontent.com/CozminM/Look_at_This/master/public/Register-form.png" height="500" width="auto">
+<br/><br/><br/>
 
-- A form page for users to add locations<br/>
-  <img src="https://raw.githubusercontent.com/CozminM/Look_at_This/master/public/Add-form.png" height="auto" width="40">
-<br/>
+- A form page for users to add locations<br/><br/>
+  <img src="https://raw.githubusercontent.com/CozminM/Look_at_This/master/public/Add-form.png" height="500" width="auto">
+<br/><br/><br/>
 
-- A list page with search and tag filtering functions<br/>
-  <img src="https://raw.githubusercontent.com/CozminM/Look_at_This/master/public/list-page.png" height="auto" width="40">
-<br/>
+- A list page with search and tag filtering functions<br/><br/>
+  <img src="https://raw.githubusercontent.com/CozminM/Look_at_This/master/public/list-page.png" height="500" width="auto">
+<br/><br/><br/>
 
 - An individual location page where users can view details about it, add comments and where the 
-owner can delete/update it<br/>
-  <img src="https://raw.githubusercontent.com/CozminM/Look_at_This/master/public/individual-page.png" height="auto" width="40">
-<br/>
+owner can delete/update it<br/><br/>
+  <img src="https://raw.githubusercontent.com/CozminM/Look_at_This/master/public/individual-page.png" height="500" width="auto">
+<br/><br/><br/>
 
 
-##Future implementation
+## Future implementation
 
 - Comment section: add, delete, edit
 - Comment moderation if you're the owner of the location entry
